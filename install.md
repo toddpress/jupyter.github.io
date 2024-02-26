@@ -58,5 +58,5 @@ voila
 You can use it to install Jupyter by running:
 
 ```bash
-brew install jupyterlab
+brew install --cask jupyterlab
 ```
